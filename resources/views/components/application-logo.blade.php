@@ -1,0 +1,1 @@
+<img src="/opportune/public/logo-small-01.png">
